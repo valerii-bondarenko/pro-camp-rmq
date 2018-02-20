@@ -1,0 +1,15 @@
+/home/vbondare/src/own/rabbit/pro-camp-rmq/cell/Makefile
+/home/vbondare/src/own/rabbit/code/AMQP-CPP/tests/myconnection.h
+/home/vbondare/src/own/rabbit/code/AMQP-CPP/include/amqpcpp/libboostasio.h
+/home/vbondare/src/own/rabbit/code/AMQP-CPP/include/amqpcpp/linux_tcp/tcphandler.h
+/home/vbondare/src/own/rabbit/code/1.cpp
+/home/vbondare/src/own/rabbit/code/2.cpp
+/home/vbondare/src/own/rabbit/code/cell/cell.cpp
+/home/vbondare/src/own/rabbit/code/cell/rmq/BillingManagerAdapter.hpp
+/home/vbondare/src/own/rabbit/code/cell/BillingManager.hpp
+/home/vbondare/src/own/rabbit/code/cell/rmq/BillingManagerProxy.hpp
+/home/vbondare/src/own/rabbit/code/cell/CallManager.hpp
+/home/vbondare/src/own/rabbit/code/cell/rmq/BillingManager_RMQWrapper.hpp
+/home/vbondare/src/own/rabbit/code/cell/BillingManager_RMQWrapper.hpp
+/home/vbondare/src/own/rabbit/code/cell/interfaces.hpp
+/home/vbondare/src/own/rabbit/code/cell/Makefile
